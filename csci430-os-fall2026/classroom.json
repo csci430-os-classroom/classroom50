@@ -1,0 +1,7 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CSci 430: Introduction to Operating Systems",
+  "short_name": "csci430-os-fall2026",
+  "term": "Fall-2026",
+  "org": "csci430-os-classroom"
+}
