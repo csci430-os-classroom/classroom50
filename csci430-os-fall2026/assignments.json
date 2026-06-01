@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "assg00",
+      "name": "Assignment 00: Class Workflow Practice",
+      "template": {
+        "owner": "csci430-os-classroom",
+        "repo": "assg00",
+        "branch": "main"
+      },
+      "due": "2026-08-15T23:59:00-04:00",
+      "mode": "individual",
+      "autograder": "default"
+    }
+  ]
 }
